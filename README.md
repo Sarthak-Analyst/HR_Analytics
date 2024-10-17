@@ -16,5 +16,5 @@ The **HR Analytics** project utilizes Power BI to analyze and visualize HR data,
 
 ## How to Use
 
-1. **Clone or Download** the pdf file "HR Analytics Dashboard".
+- **Clone or Download** the pdf file "HR Analytics Dashboard".
    
